@@ -1,0 +1,20 @@
+main a {
+  
+  text-align: left;
+  font: normal 16px Work Sans;
+  text-decoration: none;
+  color: black;
+  
+  cursor: pointer;
+  transition: color 0.15s, scale 0.15s;
+}
+
+#src1:hover a, #src2:hover a, #src3:hover a, #src4:hover a, #src5:hover a, #src6:hover a, #src7:hover a, #src8:hover a, #src9:hover a, #src10:hover a, #src11:hover a, #src12:hover a,#src13:hover a, #src14:hover a, #src15:hover a, #src16:hover a, #src17:hover a, #src18:hover a, #src19:hover a, #src20:hover a, #src21:hover a, #src22:hover a, #src23:hover a, #src24:hover a, #src25:hover a, #src26:hover a, #src27:hover a, #src28:hover a, #src29:hover a, #src30:hover a, #src31:hover a, #src32:hover a, #src33:hover a {
+  text-decoration: underline;
+}
+
+main a:focus {
+  scale: 0.97;
+
+  color: #848484;
+}
